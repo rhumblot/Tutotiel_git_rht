@@ -1,1 +1,3 @@
 Ceci est un tutoriel pour apprendre à utiliser les commandes GIT.
+
+Auteur: Raphaël Humblot
