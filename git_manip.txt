@@ -1,3 +1,6 @@
 Ceci est un tutoriel pour apprendre à utiliser les commandes GIT.
 Je modifie la ligne no2 du document sur le dossier Tutoriel_git
+
+j'ajoute à présent une ligne pour observer l'effet sur GitHub Desktop
+
 Auteur: Raphaël Humblot
